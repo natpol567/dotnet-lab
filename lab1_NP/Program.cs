@@ -18,7 +18,7 @@ namespace lab1_NP
             {
                 if (i % 15 == 0)
                 {
-                    return "FizzBuzz";
+                    return "FizzBuzz1";
                 }
                 else if (i % 3 == 0)
                 {
