@@ -1,0 +1,15 @@
+C:\Users\student\source\repos\lab1_NP\lab1_NP\bin\Debug\net7.0\lab1_NP.exe
+C:\Users\student\source\repos\lab1_NP\lab1_NP\bin\Debug\net7.0\lab1_NP.deps.json
+C:\Users\student\source\repos\lab1_NP\lab1_NP\bin\Debug\net7.0\lab1_NP.runtimeconfig.json
+C:\Users\student\source\repos\lab1_NP\lab1_NP\bin\Debug\net7.0\lab1_NP.dll
+C:\Users\student\source\repos\lab1_NP\lab1_NP\bin\Debug\net7.0\lab1_NP.pdb
+C:\Users\student\source\repos\lab1_NP\lab1_NP\obj\Debug\net7.0\lab1_NP.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\lab1_NP\lab1_NP\obj\Debug\net7.0\lab1_NP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\lab1_NP\lab1_NP\obj\Debug\net7.0\lab1_NP.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\lab1_NP\lab1_NP\obj\Debug\net7.0\lab1_NP.AssemblyInfo.cs
+C:\Users\student\source\repos\lab1_NP\lab1_NP\obj\Debug\net7.0\lab1_NP.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\lab1_NP\lab1_NP\obj\Debug\net7.0\lab1_NP.dll
+C:\Users\student\source\repos\lab1_NP\lab1_NP\obj\Debug\net7.0\refint\lab1_NP.dll
+C:\Users\student\source\repos\lab1_NP\lab1_NP\obj\Debug\net7.0\lab1_NP.pdb
+C:\Users\student\source\repos\lab1_NP\lab1_NP\obj\Debug\net7.0\lab1_NP.genruntimeconfig.cache
+C:\Users\student\source\repos\lab1_NP\lab1_NP\obj\Debug\net7.0\ref\lab1_NP.dll
